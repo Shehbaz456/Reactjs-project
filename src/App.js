@@ -1,82 +1,47 @@
-// import logo from './logo.svg';
-import React,{ useState } from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
-import TextForm from './components/TextForm';
-import Alert from './components/Alert';
-import About from './components/About';
+import React, { Component } from 'react'
+import NavBar from './components/NavBar';
+import News from './components/News';
+import LoadingBar from 'react-top-loading-bar'
 
 import {
   BrowserRouter as Router,
+  Routes,
   Route,
-  Routes
 } from "react-router-dom";
-// let name = "Shehbaz";
-function App() {
-
-  const [mode,setmode]=useState('light');
-  const [alert,setAlert] =useState(null);
-
-  const ShowAlert = (message,type)=>{
-     setAlert({
-      msg:message,
-      type:type
-     })
-     setTimeout(() => {
-      setAlert(null);
-     }, 2000);
-  } 
-
-  const removeBodyClases=()=>{
-    document.body.classList.remove('bg-light');
-    document.body.classList.remove('bg-dark');
-    document.body.classList.remove('bg-warning');
-    // document.body.classList.remove('bg-primary');
-    document.body.classList.remove('bg-danger');
-    document.body.classList.remove('bg-success');
+export default class App extends Component {
+  pageSize=6;
+  apiKey= process.env.REACT_APP_NEWS_API
+  state = {
+    progress: 0
   }
-
- const toggleMode=(cls)=>{
-   removeBodyClases();
-   console.log(cls);
-   document.body.classList.add('bg-'+cls);
-    if(mode==="light"){
-      setmode("Dark");
-      document.body.style.background="#087ea4"
-      document.body.style.color="#fff";
-      ShowAlert("Dark mode Enabled","success")
-    }
-    else{
-      setmode("light");
-      document.body.style.background="#fff"
-      document.body.style.color="#000"
-      ShowAlert("Light mode Enabled","success")
-    }
+  setProgress=(process)=>{
+    this.setState({progress:process})
   }
+  render() {
+    return (
+      <div>
+      <Router>
+      <NavBar/>
+      <LoadingBar
+        height={3}
+        color='#f11946'
+        progress={this.state.progress}
+      />
 
-  return (
-    <>
-    <Router>
-    <Navbar title="UltimoReact" abouText="About Us" mode={mode} toggleMode={toggleMode}></Navbar>
-    <Alert alert = {alert}/>
-    <div className="container my-3">
       <Routes>
-        <Route exact path="/about" element={ <About mode ={mode}/>}></Route>
-        <Route exact path="/" element={ <TextForm ShowAlert ={ShowAlert} heading="Enter the text to analiyze below" mode={mode} />}>
-        </Route>
+      <Route exact path="/" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="general" pageSize={this.pageSize} country="in" category="general"/>} ></Route>
+      <Route exact path="/business" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="business" pageSize={this.pageSize} country="in" category="business"/>}></Route>
+      <Route exact path="/entertainment" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="entertainment" pageSize={this.pageSize} country="in" category="entertainment"/>} ></Route>
+      <Route exact path="/health" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="health" pageSize={this.pageSize} country="in" category="health"/>}></Route>
+      <Route exact path="/science" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="science" pageSize={this.pageSize} country="in" category="science"/>}></Route>
+      <Route exact path="/sports" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="sports" pageSize={this.pageSize} country="in" category="sports"/>}></Route>
+      <Route exact path="/technology" element={<News setProgress={this.setProgress} apiKey={this.apikKey} key="technology" pageSize={this.pageSize} country="in" category="technology"/>}></Route>
       </Routes>
-    </div>
-    </Router>
-
-    
-
-
-    </>
-  );
+      </Router>
+      </div>
+              
+      
+    )
+  }
 }
-
-// {/* <div className="container">
-// <h1>Hello {name}</h1>
-//   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, unde reprehenderit! Reiciendis non consequuntur saepe recusandae. Distinctio perspiciatis magni libero eligendi, dignissimos eaque commodi illo impedit laborum quibusdam ducimus deserunt.</p>
-// </div> */}
-export default App;

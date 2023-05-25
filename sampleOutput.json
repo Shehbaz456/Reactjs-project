@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Property register fines worth £1bn not yet imposed",
+            "description": "Thousands of foreign firms, some linked to Russian oligarchs, are breaking a new UK transparency law.",
+            "url": "http://www.bbc.co.uk/news/uk-65611255",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E258/production/_129744975_index-nc.png",
+            "publishedAt": "2023-05-18T04:37:18.3145369Z",
+            "content": "The UK has so far failed to impose fines worth as much as £1bn on foreign companies breaking a landmark transparency law, BBC analysis reveals. \r\nSince January, overseas firms that own UK property ca… [+5145 chars]"
+        },
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Der Tagesspiegel",
+            "title": "Nach russischem Beschuss: USA räumen Schäden an Patriot-Abwehrsystem in der Ukraine ein",
+            "description": "Bei den russischen Angriffen auf Kiew in der Nacht zum Dienstag ist laut Pentagon ein Abwehrsystem beschädigt worden. Es sei aber weiter einsatzbereit.",
+            "url": "https://www.tagesspiegel.de/internationales/nach-russischem-beschuss-usa-raumen-schaden-an-patriot-abwehrsystem-in-der-ukraine-ein-9840014.html",
+            "urlToImage": "https://www.tagesspiegel.de/images/imago0202225703hjpg1/alternates/BASE_16_9_W1400/imago0202225703hjpg.jpeg",
+            "publishedAt": "2023-05-18T04:09:21+00:00",
+            "content": "Das US-Verteidigungsministerium hat Schäden an einem an die Ukraine gelieferten Flugabwehrsystem vom Typ Patriot nach russischem Beschuss eingeräumt. Das hochmoderne Flugabwehrsystem bleibe jedoch ei… [+2304 chars]"
+        },
+        {
+            "source": {
+                "id": "la-gaceta",
+                "name": "La Gaceta"
+            },
+            "author": "La Gaceta",
+            "title": "Peleas, drogas y sexo, las nuevas aristas del homicidio de Chacabuco 59",
+            "description": "A la joven detenida, que podría ser una trabajadora sexual, la acusaron de homicidio y le dictaron prisión preventiva por 51 días",
+            "url": "https://www.lagaceta.com.ar/nota/991691/seguridad/peleas-drogas-sexo-nuevas-aristas-homicidio-chacabuco-59.html",
+            "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2023/05/18/991691_202305172320260000001.jpg",
+            "publishedAt": "2023-05-18T03:22:17.2080335Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ansa",
+                "name": "ANSA.it"
+            },
+            "author": "ANSA.it",
+            "title": "Borsa: Tokyo, apertura in netto rialzo (+1,11%) - Ultima Ora",
+            "description": "La Borsa di Tokyo avvia gli scambi in sostenuto aumento, seguendo l'avanzata degli indici azionari statunitensi con gli investitori fiduciosi su una soluzione dello stallo al Congresso americano riguardo al tetto del debito Usa e l'evitarsi di un default. (AN…",
+            "url": "http://www.ansa.it/sito/notizie/topnews/2023/05/18/borsa-tokyo-apertura-in-netto-rialzo-111_57c55fd2-183e-4b9d-a714-76af1151958c.html",
+            "urlToImage": "https://www.ansa.it/webimages/img_700/2023/3/22/9879385cd560a08fce91e078f1d3e36e.jpg",
+            "publishedAt": "2023-05-18T02:13:00Z",
+            "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all’abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad … [+320 chars]"
+        },
+        {
+            "source": {
+                "id": "ansa",
+                "name": "ANSA.it"
+            },
+            "author": "ANSA.it",
+            "title": "TikTok, il Montana diventa il primo stato Usa a vietarlo - Ultima Ora",
+            "description": "Il Montana diventa il primo stato americano a vietare TikTok. Il governatore Richard Gianforte ha firmato la legge che proibisce ai negozi di applicazioni online di offrire la piattaforma di video sharing cinese. (ANSA). (ANSA)",
+            "url": "http://www.ansa.it/sito/notizie/topnews/2023/05/18/tiktok-il-montana-diventa-il-primo-stato-usa-a-vietarlo_ec1a7f33-73a1-458a-b8d6-07abf6eab69e.html",
+            "urlToImage": "https://www.ansa.it/webimages/img_700/2023/5/18/0733ed490633e5393f219b29827e9a73.jpg",
+            "publishedAt": "2023-05-17T23:54:00Z",
+            "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all’abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad … [+320 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lindsay Kornick",
+            "title": "DEI nonprofit imploded after Black activist accused White counterpart of racism because she wasn't paid more",
+            "description": "The Los Angeles Times reported the end of an activist partnership and friendship between a Black woman and a White woman over racial politics and accusations of racism.",
+            "url": "https://www.foxnews.com/media/dei-nonprofit-imploded-black-activist-accused-white-counterpart-racism-she-wasnt-paid-more",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/iStock-1357522666.jpg",
+            "publishedAt": "2023-05-17T23:30:11Z",
+            "content": "Former activists Michelle Saahene and Melissa DePino recently ended their partnership over disagreement about how each should be compensated according to the Los Angeles Times.\r\nThe L.A. Times report… [+3928 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "Guerra Ucraina - Russia, le news di oggi. Allarme antiaereo in gran parte del Paese. Kiev: \"Non ignorate le s…",
+            "description": "Tre morti in un bombardamento a Kherson. Usa: \"Danni minimi al sistema Patriot\". Prorogato l'accordo sul grano dai porti ucraini",
+            "url": "https://www.repubblica.it/esteri/2023/05/18/diretta/guerra_ucraina_russia_news_oggi-400582269/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/05/17/225338389-e3ce64b1-79f2-4c52-b104-76183dededcc.jpg",
+            "publishedAt": "2023-05-17T23:02:02Z",
+            "content": "L'esercito russo ha bombardato quattro comunità nell'oblast di Sumy, al confine nord-orientale dell'Ucraina con la Russia. Secondo le autorità locali, le forze russe hanno preso di mira Bilopillia, N… [+127 chars]"
+        },
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Boris Buchholz",
+            "title": "Grundsteinlegung in Berlin-Dahlem: Mehr Platz für Forschung und Entwicklung am Fubic-Campus",
+            "description": "Am Fubic-Campus der Freien Universität entsteht ein Bau für Firmen rund um die sogenannten Live-Sciences. Dieser Tage war Grundsteinlegung. Öffentliche und private Firmen arbeiten hier eng zusammen.",
+            "url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/grundsteinlegung-in-berlin-dahlem-mehr-platz-fur-forschung-und-entwicklung-am-fubic-campus-9827831.html",
+            "urlToImage": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/images/grundsteinlegung-des-fuhub-auf-dem-fubic-campus-ha-was-fur-eine-welt-privater-forschungsbau-auf-landeseigenen-forschungs-campus1/alternates/BASE_16_9_W1400/grundsteinlegung-des-fuhub-auf-dem-fubic-campus-ha-was-fuer-eine-welt-privater-forschungsbau-auf-landeseigenen-forschungs-campus.jpeg",
+            "publishedAt": "2023-05-17T22:52:24+00:00",
+            "content": "Auf die längliche, glänzende Zeitkapsel aus Metall sind die Worte Fuhub Driven Investment GmbH, 10.5.2023 matt eingraviert. Driven, das ist die Immobilientwicklungsfirma, die auf dem Gelände des im B… [+4229 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Jan W. Schäfer und Felix Rupprecht",
+            "title": "Graichen-Entlassung: Kommt das Aus für Habecks Heiz-Hammer? | Politik",
+            "description": "Was wird jetzt aus dem Heiz-Gesetz? Wirtschaftsminister Robert Habeck (53, Grüne) hat am Mittwoch die Zusammenarbeit mit Staatssekretär Patrick Graichen ...",
+            "url": "https://www.bild.de/politik/inland/politik-inland/graichen-entlassung-kommt-das-aus-fuer-habecks-heiz-hammer-83966268.bild.html",
+            "urlToImage": "https://images.bild.de/6464dd588b1f952d639b2387/160d0b1deccc4f5e73d590b0100acf31,ce076bfe?w=1280",
+            "publishedAt": "2023-05-17T22:30:47Z",
+            "content": "Was wird jetzt aus dem Heiz-Gesetz?\r\nWirtschaftsminister Robert Habeck (53, Grüne) hat am Mittwoch die Zusammenarbeit mit Staatssekretär Patrick Graichen (51) für beendet erklärt. Damit muss der Erfi… [+3055 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "La battaglia dei treni di Putin e Raisi, accordo per una linea russo-iraniana",
+            "description": "Il Cremlino punta a collegare il Mar Baltico con l’Oceano Indiano creando una via  alternativa a Suez. E gli Usa sognano una tratta Arabia-Israele",
+            "url": "https://www.repubblica.it/esteri/2023/05/18/news/ferrovia_russia_iran_india_accordo_putin_raisi-400548247/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/05/17/191744427-8edf9fed-2513-43c4-907a-f62b1ff68ace.jpg",
+            "publishedAt": "2023-05-17T22:01:00Z",
+            "content": "Da quando Lawrence d'Arabia faceva saltare in aria con la dinamite i treni turchi, alla testa della rivolta araba contro l'Impero ottomano nella Prima guerra mondiale, l'importanza strategica del con… [+503 chars]"
+        },
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": "Wesley Santana",
+            "title": "Retailtech levanta rodada milionária para organizar prateleiras de supermercados de clientes como Carrefour e Assaí",
+            "description": "Retailtech Mob2Con captou R$ 5 milhões e usa inteligência artificial para aumentar eficiência operacional do varejo",
+            "url": "https://www.infomoney.com.br/negocios/retailtech-levanta-rodada-milionaria-para-organizar-prateleiras-de-supermercados-de-clientes-como-carrefour-e-assai/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/03/GettyImages-1277730987.jpg?quality=70",
+            "publishedAt": "2023-05-17T21:14:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Handelsblatt",
+            "title": "Auf Meta kommt Rekordstrafe im EU-Datenschutzstreit zu",
+            "description": "Insidern zufolge kommen auf den Facebook-Konzern hohen Strafzahlungen zu. Es geht um die Speicherung von europäischen Nutzerdaten auf Servern in den USA.",
+            "url": "https://www.handelsblatt.com/technik/it-internet/datenschutz-meta-muss-mit-rekordstrafe-im-eu-datenschutzstreit-rechnen/29158702.html",
+            "urlToImage": "https://www.handelsblatt.com/images/meta-zentrale-in-melo-park/29158710/2-format2003.jpg",
+            "publishedAt": "2023-05-17T20:19:00+00:00",
+            "content": "Meta-Zentrale in Melo ParkDas kalifornische Unternehmen hat der EU zufolge gegen europäischen Datenschutz verstoßen. \r\n(Foto: Bloomberg)\r\nBrüsselMeta wird vermutlich mit einer Rekordstrafe der EU für… [+1184 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Wirtschaftswoche",
+            "title": "Datenschutz: Auf Meta kommt Rekordstrafe im EU-Datenschutzstreit zu",
+            "description": "Insidern zufolge muss der Facebook-Konzern mit hohen Strafzahlungen rechnen. Es geht um die Speicherung von europäischen Nutzerdaten auf Servern in den USA.",
+            "url": "https://www.wiwo.de/technologie/digitale-welt/datenschutz-auf-meta-kommt-rekordstrafe-im-eu-datenschutzstreit-zu/29158716.html",
+            "urlToImage": "https://www.wiwo.de/images/meta-zentrale-in-melo-park/29158710/2-format11240.jpg",
+            "publishedAt": "2023-05-17T20:19:00+00:00",
+            "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": "il-sole-24-ore",
+                "name": "Il Sole 24 Ore"
+            },
+            "author": "Paolo Paronetto, Chiara Di Cristofaro",
+            "title": "Ottimismo su debito Usa spinge Wall Street. Chiusura timida per le Borse Ue",
+            "description": "Pesano anche i timori per gli effetti delle politiche monetarie sull'economia globale.Inflazione in Europa al 7% in aprile. Il dollaro in salute ai massimi da marzo sull'euro",
+            "url": "https://www.ilsole24ore.com/art/borsa-l-economia-giappone-cresce-oltre-stime-tokyo-parte-rialzo-AEnfTTUD",
+            "urlToImage": "https://i2.res.24o.it/images2010/2023/05/AEnfTTUD/images/86067bbc-8a71-11ed-b327-92d7490d825b-fotohome0.jpg",
+            "publishedAt": "2023-05-17T18:38:42Z",
+            "content": "Tra i principali titoli milanesi,Interpump Group conferma i rialzi seguiti all'annuncio della trimestrale migliore delle attese. Recupera terreno Telecom Italia dopo che l'a.d. di Cdp, Dario Scannapi… [+2976 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Pew: 60% of U.S. Twitter users have 'taken a break' from the platform in the past year",
+            "description": "A new study by Pew Research Center paints a picture of a pause in Twitter usage by U.S. adults, but the data doesn’t necessarily point the finger at Elon Musk’s takeover of the social media platform as the source of the blame. Instead, Pew’s survey of U.S. ad…",
+            "url": "https://techcrunch.com/2023/05/17/pew-60-of-u-s-twitter-users-have-taken-a-break-from-the-platform-in-the-past-year/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/jeremy-bezanger-Jm1YUfYjpHI-unsplash-e1659331219215.jpg?resize=1200,800",
+            "publishedAt": "2023-05-17T18:35:43Z",
+            "content": "A new study by Pew Research Center paints a picture of a pause in Twitter usage by U.S. adults, but the data doesn’t necessarily point the finger at Elon Musk’s takeover of the social media platform … [+5018 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "The US Post Office Is Spying on the Mail. Senators Want to Stop It",
+            "description": "The USPS carries out warrantless surveillance on thousands of parcels every year. Lawmakers want it to end—right now.",
+            "url": "https://www.wired.com/story/usps-mail-surveillance-letter/",
+            "urlToImage": "https://media.wired.com/photos/6463e4f5d96882f74caa3d46/191:100/w_1280,c_limit/Exclusive-%20The%20USPS%20Is%20Spying%20on%20Your%20Mail%20Security%20GettyImages-1235875423.jpg",
+            "publishedAt": "2023-05-17T18:05:38Z",
+            "content": "The notion that only a mail carrier will view a piece of mail is based on a quainter understanding of the mail handling process; a Norman Rockwell view of what a modern postal delivery system entails… [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Simmone Shah",
+            "title": "These Photos Show the Deadly Impact of Floods in Italy",
+            "description": "Deadly floods swept through Northern Italy on Wednesday, killing at least eight people, and thousands more evacuating the region.",
+            "url": "http://time.com/6280579/italy-flooding-deadly-photos/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/05/italy-flooding-savio-river-01.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2023-05-17T17:17:04Z",
+            "content": "Deadly floods swept through Northern Italy on Wednesday, killing at least eight people, and thousands more evacuating the region. \r\nPersistent, heavy rain led Italian authorities to place the Emilia … [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Wirtschaftswoche",
+            "title": "Schweizer Großbank: Untersuchungskommission zur Credit Suisse-Rettung rückt nähe",
+            "description": "Beide Kammern des Schweizer Parlaments haben sich für eine Untersuchungskommission ausgesprochen. Die Credit Suisse war im März zusammengebrochen und von der UBS übernommen worden.",
+            "url": "https://www.wiwo.de/unternehmen/banken/schweizer-grossbank-untersuchungskommission-zur-credit-suisse-rettung-rueckt-naehe/29158510.html",
+            "urlToImage": "https://www.wiwo.de/images/logo-der-credit-suisse-und-ubs/29158458/2-format11240.jpg",
+            "publishedAt": "2023-05-17T15:43:00+00:00",
+            "content": "Der Zusammenbruch der Schweizer Großbank Credit Suisse und deren von der Regierung orchestrierte Not-Übernahme durch den Konkurrenten UBS steuert auf ein politisches Nachspiel zu.\r\nDas Büro des Ständ… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Rüdiger Kiani-Kreß, Max Biederbeck",
+            "title": "Ukraine: Warum Rheinmetall eine Panzerfabrik in der Ukraine baut",
+            "description": "Rheinmetall könnte zusammen mit dem ukrainischen Staatskonzern Ukroboronprom in einem Jahr erste Kampffahrzeuge bauen. Doch es bleiben Herausforderungen – nicht zuletzt bei der Flugabwehr für das geplante Werk.",
+            "url": "https://www.wiwo.de/my/unternehmen/industrie/neues-panzerwerk-warum-rheinmetall-eine-fabrik-in-der-ukraine-baut/29020314.html",
+            "urlToImage": "https://www.wiwo.de/images/ruestungskonzern-rheinmetall/29152616/5-format11240.jpg",
+            "publishedAt": "2023-05-17T15:33:06+00:00",
+            "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "Runar Henriksen Jørstad, Benjamin Vorland Andersrød",
+            "title": "Ber foreldre få kontroll på fulle og rusa ungdommer",
+            "description": "Øst politidistrikt har fått mange meldinger om ungdommer som drikker, ruser seg og slåss. De yngste er nede i 13-14-årsalderen.",
+            "url": "https://www.nrk.no/osloogviken/ber-foreldre-fa-kontroll-pa-fulle-og-rusa-ungdommer-1.16413431",
+            "urlToImage": "https://gfx.nrk.no/tGWiMrss1YiMqO3sXp4rdg-XEI0FrUYN95ULgzFs1Q7Q.jpg",
+            "publishedAt": "2023-05-17T14:40:15Z",
+            "content": "Allerede før klokka rakk å bli 16 på nasjonaldagen, hadde politiet fått en rekke telefoner om fulle ungdommer.\r\nVi får mange meldinger om ungdommer som fester og drikker og ruser seg og lager bråk. V… [+1532 chars]"
+        }
+    ]
+}
